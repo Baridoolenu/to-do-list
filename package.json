@@ -4,6 +4,7 @@
   "description": "a todolist to keep task ringing",
   "main": "index.js",
   "scripts": {
+    "devstart": "nodemon server.js",
     "test": "golden"
   },
   "author": "Wisdom",
