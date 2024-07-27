@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "devstart": "nodemon server.js",
+    
     "test": "golden"
   },
   "author": "Wisdom",
