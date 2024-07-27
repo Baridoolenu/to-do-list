@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "devstart": "nodemon server.js",
-    
     "test": "golden"
   },
   "author": "Wisdom",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.19.2"
   },
   "devDependencies": {
