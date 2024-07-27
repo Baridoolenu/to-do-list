@@ -1,0 +1,11 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "a todolist to keep task ringing",
+  "main": "index.js",
+  "scripts": {
+    "test": "golden"
+  },
+  "author": "Wisdom",
+  "license": "ISC"
+}
